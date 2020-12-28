@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">togethorapp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_watch">Watch</string>
+    <string name="js">计时器</string>
+    <string name="timer">00:00:00</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="restart">restart</string>
+    <string name="todo">TODO</string>
+</resources>
