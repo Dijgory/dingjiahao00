@@ -10,4 +10,17 @@
     <string name="stop">Stop</string>
     <string name="restart">restart</string>
     <string name="todo">TODO</string>
+
+    <string name="reset">重置</string>
+
+    <string name="play">play</string>
+    <string name="prev">prev</string>
+<!--    <string name="stop">Stop</string>-->
+    <string name="next">next</string>
+    <string name="pause">pause</string>
+    <string name="textview">TextView</string>
+
+    <string name="button">点击我</string>
+    <string name="textView">你好，世界！</string>
+    <string name="clicked">我被点击了！</string>
 </resources>
